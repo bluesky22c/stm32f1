@@ -11,7 +11,7 @@
 # On command line:
 #
 # make all = Make software.
-#
+# 
 # make clean = Clean out built project files.
 #
 # make program = Download the hex file to the device
